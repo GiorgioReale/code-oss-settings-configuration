@@ -1,0 +1,18 @@
+{
+    "atomKeymap.promptV3Features": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": false,
+    "editor.cursorBlinking":  "smooth",
+    "editor.fontFamily":  "Roboto Mono, monospace",
+    "editor.fontSize":  14 ,
+    "editor.fontWeight":  "400",
+    "editor.letterSpacing":  0,
+    "editor.lineHeight":  0,
+    "editor.dragAndDrop": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.tree.indent": 15,
+    "workbench.productIconTheme": "material-product-icons",
+    "window.zoomLevel": 1,
+    "workbench.settings.editor": "json",
+    "workbench.colorTheme": "GitHub Dark",
+}
