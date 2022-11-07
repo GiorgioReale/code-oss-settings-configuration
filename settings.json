@@ -6,6 +6,7 @@
     "editor.fontFamily": "Fira Code",
     "editor.fontSize":  14 ,
     "editor.fontWeight":  "400",
+    "editor.fontLigatures": true,
     "editor.letterSpacing":  0,
     "editor.lineHeight":  0,
     "editor.dragAndDrop": false,
@@ -14,5 +15,5 @@
     "workbench.tree.indent": 15,
     "workbench.productIconTheme": "material-product-icons",
     "workbench.settings.editor": "json",
-    "workbench.colorTheme": "Hack The Box",
+    "workbench.colorTheme": "GitHub Dark Default",
 }
